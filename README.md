@@ -7,3 +7,4 @@ All notebooks of the data analyses for the thesis of the master Applied Data Sci
 | [Thesis-ADS](https://github.com/xjoxd/Thesis-ADS) | Main repository
 | &ensp;&ensp;&boxvr;&nbsp; [README.md](https://github.com/xjoxd/Thesis-ADS/blob/main/README.md) | This ReadMe provides information about the repository
 | &ensp;&ensp;&boxvr;&nbsp; [Markers_FOKForum.ipynb](https://github.com/xjoxd/Thesis-ADS/blob/main/Markers_FOKForum.ipynb) | The automation and comparison of the markers from literature modelled on the data.
+| &ensp;&ensp;&boxvr;&nbsp; [Prediction_V3.ipynb](https://github.com/xjoxd/Thesis-ADS/blob/main/Prediction_V3.ipynb) | The prediction of the manually coded marker V3: personal perspective.
